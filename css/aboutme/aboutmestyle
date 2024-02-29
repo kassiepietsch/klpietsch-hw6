@@ -1,0 +1,6 @@
+.container {
+  width: 85%;
+  margin: auto;
+  background-color: pink;
+  border: 1px solid black;  
+}
